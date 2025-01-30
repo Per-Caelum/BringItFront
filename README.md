@@ -28,3 +28,6 @@ Add React Router
 In the back end a user cannot delete themselves.
 
 Once you are done, show me the deployed web site. Then start planning your Capstone.
+
+Npm I react-redux @reduxjs/toolkit
+npm i bootstrap
